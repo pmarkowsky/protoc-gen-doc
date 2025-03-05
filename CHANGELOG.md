@@ -93,7 +93,7 @@ _**CHANGELOG is now available with each release rather than in this file**_
 
 * The entire `parser` package (in favor of [protokit])
 
-[protokit]: https://github.com/pseudomuto/protokit
+[protokit]: https://github.com/pmarkowsky/protokit
 
 # v1.0.0 - September 26, 2017
 
